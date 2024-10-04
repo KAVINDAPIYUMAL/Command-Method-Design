@@ -1,0 +1,7 @@
+D:\MyLearns\GIT\Design_Patterns\Command-Method-Design\Command-Method-Design\commone-method-design\commone-method-design\bin\Debug\commone-method-design.exe.config
+D:\MyLearns\GIT\Design_Patterns\Command-Method-Design\Command-Method-Design\commone-method-design\commone-method-design\bin\Debug\commone-method-design.exe
+D:\MyLearns\GIT\Design_Patterns\Command-Method-Design\Command-Method-Design\commone-method-design\commone-method-design\bin\Debug\commone-method-design.pdb
+D:\MyLearns\GIT\Design_Patterns\Command-Method-Design\Command-Method-Design\commone-method-design\commone-method-design\obj\Debug\commone-method-design.csproj.AssemblyReference.cache
+D:\MyLearns\GIT\Design_Patterns\Command-Method-Design\Command-Method-Design\commone-method-design\commone-method-design\obj\Debug\commone-method-design.csproj.CoreCompileInputs.cache
+D:\MyLearns\GIT\Design_Patterns\Command-Method-Design\Command-Method-Design\commone-method-design\commone-method-design\obj\Debug\commone-method-design.exe
+D:\MyLearns\GIT\Design_Patterns\Command-Method-Design\Command-Method-Design\commone-method-design\commone-method-design\obj\Debug\commone-method-design.pdb
